@@ -18,4 +18,8 @@ function test3() {
   return console.log("teste");
 }
 
+function test4() {
+  return console.log("teste");
+}
+
 export default Home;
